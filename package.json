@@ -1,6 +1,6 @@
 {
-  "name": "react-elastic-carousel",
-  "version": "0.11.5",
+  "name": "react-elastic-carousel-2.0",
+  "version": "0.11.6",
   "description": "A flexible and responsive carousel component for react",
   "author": "sag1v (Sagiv Ben Giat)",
   "license": "MIT",
@@ -39,8 +39,8 @@
   },
   "peerDependencies": {
     "prop-types": "^15.5.4",
-    "react": "15 - 17",
-    "react-dom": "15 - 17",
+    "react": "15 - 18",
+    "react-dom": "15 - 18",
     "styled-components": "^5.1.0"
   },
   "devDependencies": {
